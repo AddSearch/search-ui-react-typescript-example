@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import  { useEffect } from 'react';
 import './App.css';
 import SearchField from "./addsearch-ui-components/SearchField";
 import SearchResults from "./addsearch-ui-components/SearchResults";
