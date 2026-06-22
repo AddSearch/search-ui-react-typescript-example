@@ -29,7 +29,8 @@
     "jsdom": "^23.0.1"
   },
   "overrides": {
-    "esbuild": "0.28.1"
+    "esbuild": "0.28.1",
+    "browserslist": "4.28.4"
   },
   "browserslist": {
     "production": [
