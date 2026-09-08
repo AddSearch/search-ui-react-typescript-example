@@ -30,7 +30,7 @@
   },
   "overrides": {
     "esbuild": "0.28.1",
-    "browserslist": "4.28.4",
+    "browserslist": "4.28.9",
     "postcss": "8.5.25"
   },
   "browserslist": {
